@@ -28,10 +28,10 @@ Drokkit is a multiplayer, turn-based game server built in Go, designed to suppor
 
 Comprehensive documentation is provided in the drokkumentation folder:
 
-[Server Configuration and Setup](drokkumentation/running.md)
-[Developing a Game Client in C#](drokkumentation/writingagameincsharp.md)
-[Developing a Game Client in GDScript (Godot)](drokkumentation/writingagameingdscript.md)
-[API Endpoints and WebSocket Guide](drokkumentation/apiendpoints.md)
+- [Server Configuration and Setup](drokkumentation/running.md)
+- [Developing a Game Client in C#](drokkumentation/writingagameincsharp.md)
+- [Developing a Game Client in GDScript (Godot)](drokkumentation/writingagameingdscript.md)
+- [API Endpoints and WebSocket Guide](drokkumentation/apiendpoints.md)
 
 ## Project Structure
 
